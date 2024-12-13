@@ -68,3 +68,7 @@ Display all products with their discounts.
 Save inventory data to a file for persistence.
 Load inventory data from the file for reuse.
 Exit the program.
+
+
+the IDE code blocks
+language C++
